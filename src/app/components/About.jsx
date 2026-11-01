@@ -33,16 +33,16 @@ export default function Introduction() {
     <div className="w-full bg-[var(--color-section-bg,#c9d5e5)] text-[var(--color-text,#151c2a)] transition-colors duration-300">
 
       {/* ========================================
-          1. INTRODUCTION + STATISTICS
+          1. ABOUT / INTRODUCTION + STATISTICS
       ======================================== */}
       <section
-        id="introduction"
-        aria-labelledby="introduction-heading"
-        className="px-4 pb-24 pt-20 md:px-6 md:pb-28 lg:px-10"
+        id="about"
+        aria-labelledby="about-heading"
+        className="scroll-mt-24 px-4 pb-24 pt-20 md:px-6 md:pb-28 lg:px-10"
       >
         <div className="mx-auto max-w-[1600px]">
           <h2
-            id="introduction-heading"
+            id="about-heading"
             className="text-[clamp(28px,3.2vw,52px)] font-semibold leading-[1.2] tracking-[-0.035em]"
           >
             We are Calibro, a bespoke furniture and contract FF&amp;E

@@ -4,6 +4,7 @@ import Link from "next/link";
 export default function Hero() {
   return (
     <section
+      id="hero"
       aria-labelledby="home-hero-title"
       className="relative isolate h-screen min-h-[640px] w-full overflow-hidden bg-[#111827]"
     >
