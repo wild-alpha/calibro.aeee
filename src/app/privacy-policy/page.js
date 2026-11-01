@@ -1,5 +1,4 @@
-import SiteNav from '../../components/SiteNav';
-import SiteFooter from '../../components/SiteFooter';
+
 
 export const metadata = {
   title: 'Privacy Policy',

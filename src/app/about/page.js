@@ -1,4 +1,4 @@
-import SeoLandingPage from '../../components/SeoLandingPage';
+
 
 export const metadata = {
   title: 'About Calibro | Custom Furniture Company in Dubai',
