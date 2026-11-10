@@ -1,18 +1,39 @@
 # Calibro
 
-> Calibro is a bespoke furniture and contract FF&E partner based in Dubai, UAE.
+> Calibro is a Dubai studio for bespoke and custom furniture, joinery and contract FF&E. It takes the drawings of architects and interior designers and delivers them as built pieces: detailed in shop drawings, sampled and approved, produced in audited UAE partner workshops, installed and looked after. Calibro Furniture Trading FZE was founded in 2025 on 18+ years of team experience, with a studio in Jebel Ali, Dubai.
 
-Calibro works with architects, interior designers, developers, and private clients across the UAE and wider GCC. The company creates custom-made furniture and sources, validates, delivers, and installs furniture, joinery, lighting, and rugs through one accountable team.
-
-## Key pages
-
-- Home and company information: https://calibro.ae/
-- Selected projects: https://calibro.ae/projects
-- Product collection (coming soon): https://calibro.ae/products
-- Contact: https://calibro.ae/#contact
-
-## Contact
-
+- Legal name: Calibro Furniture Trading FZE, Ajman Free Zone, trade licence 53390
+- Studio: 47 Street, Jebel Ali Industrial Area, Dubai, United Arab Emirates (by appointment)
+- Phone and WhatsApp: +971 58 604 5588
 - Email: info@calibro.ae
-- WhatsApp: +971 58 604 5588
-- Location: 47 Street, Jebel Ali Industrial Area, Dubai, UAE
+- Production model: Calibro does not own a factory. Production is placed with audited partner workshops in the UAE; Calibro owns the shop drawings, supervision, quality control, delivery and installation.
+- Credits: every project is designed by its architect or interior designer and credited to them; Calibro engineers and produces to their design intent.
+- Languages: English (https://calibro.ae) and Arabic (https://calibro.ae/ar)
+
+## Capabilities
+
+- [Bespoke furniture](https://calibro.ae/bespoke-furniture): sofas and seating, tables, beds and headboards, casegoods, made to the designer's drawings
+- [Joinery](https://calibro.ae/joinery): wardrobes, wall panelling, vanities, media walls and reception desks
+- [Contract FF&E](https://calibro.ae/ffe): complete furniture, fixtures and equipment packages, made and procured under one contract
+- [Value engineering](https://calibro.ae/value-engineering): cost changes to what does not show, each approved by the designer
+- [Installation and aftercare](https://calibro.ae/delivery-installation): delivery, installation, handover and aftercare across the UAE
+
+## How Calibro works
+
+- [Process](https://calibro.ae/process): six steps from drawings review to installation, each ending in a sign-off
+- [Production](https://calibro.ae/production): audited UAE partner workshops and hold-point quality control
+- [For interior designers and architects](https://calibro.ae/for/interior-designers): what to send, what comes back, approvals and credit
+- [Studio](https://calibro.ae/about): the company, the name (Italian for caliper) and the contact details
+- [Contact](https://calibro.ae/contact): send drawings, a BOQ or a sketch
+
+## Projects (Dubai)
+
+- [All projects](https://calibro.ae/projects)
+- [Il Primo Penthouse, Downtown Dubai](https://calibro.ae/projects/il-primo-penthouse): interior design WEDO Interiors
+- [Grand Bleu Tower 1, Emaar Beachfront](https://calibro.ae/projects/grand-bleu-tower-1): interior design WEDO Interiors
+- [Study House, Al Khawaneej](https://calibro.ae/projects/study-house): ISTO Architecture
+- [Sobha – The S Tower](https://calibro.ae/projects/sobha-s-tower): FF+D Architects
+- [Dubai Hills Fairways](https://calibro.ae/projects/dubai-hills-fairways): Jadex Studio
+- [Private Office, Vision Tower, Business Bay](https://calibro.ae/projects/private-office-vision-tower): BH Architects
+- [SO/ Uptown Tower, Uptown Dubai](https://calibro.ae/projects/so-uptown-tower): secondary reception
+- [Beauport Tower, Dubai Marina](https://calibro.ae/projects/beauport-tower): M-Studio

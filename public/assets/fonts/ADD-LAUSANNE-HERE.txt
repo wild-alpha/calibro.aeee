@@ -1,0 +1,9 @@
+Copy these four files here from Calibro's own TWK Lausanne download (Weltkern), with these exact names,
+only once Calibro's Weltkern licence lists calibro.ae:
+
+TWKLausanne-300.woff2
+TWKLausanne-400.woff2
+TWKLausanne-500.woff2
+TWKLausanne-300Italic.woff2
+
+Then delete this note. Readex Pro (the Arabic face) is SIL Open Font Licence and is already here.

@@ -1,33 +1,8 @@
 {
-  "name": "calibro-next-seo-rebuild",
-  "version": "1.0.0",
+  "name": "calibro-site",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint .",
-    "validate:data": "node scripts/validate-data.mjs",
-    "check:assets": "node scripts/check-public-assets.mjs"
-  },
+  "description": "calibro.ae: static pages in public/, one Vercel function for the contact form (api/enquiry.js).",
   "dependencies": {
-    "@fontsource/poppins": "^5.3.0",
-    "@fontsource/sora": "^5.3.0",
-    "@gsap/react": "^2.1.2",
-    "@use-gesture/react": "^10.3.1",
-    "gsap": "^3.15.0",
-    "lenis": "^1.3.26",
-    "lucide-react": "^1.35.0",
-    "next": "16.2.9",
-    "nodemailer": "^8.0.7",
-    "react": "19.2.6",
-    "react-dom": "19.2.6"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "^4.3.3",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.9",
-    "tailwindcss": "^4.3.3"
-  },
-  "type": "module"
+    "nodemailer": "10.4.0"
+  }
 }

@@ -1,18 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://calibro.ae/about</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/about"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/about"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/about</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/about"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/bespoke-furniture</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/bespoke-furniture"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/bespoke-furniture"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/bespoke-furniture"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/contact</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/contact"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/contact"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/ffe</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/ffe"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/ffe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/ffe"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/joinery</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/joinery"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/joinery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/joinery"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/process</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/process"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/process"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/process"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/projects/il-primo-penthouse</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/projects/il-primo-penthouse"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/il-primo-penthouse"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/il-primo-penthouse"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ar/projects</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/projects"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/bespoke-furniture</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/bespoke-furniture"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/bespoke-furniture"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/bespoke-furniture"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/contact</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/contact"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/contact"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/delivery-installation</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/delivery-installation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/delivery-installation"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/ffe</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/ffe"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/ffe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/ffe"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/for/interior-designers</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/for/interior-designers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/for/interior-designers"/>
+  </url>
   <url>
     <loc>https://calibro.ae/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/joinery</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/joinery"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/joinery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/joinery"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/privacy-policy</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/privacy-policy"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/process</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/process"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/process"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/process"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/production</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/production"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/production"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/projects/beauport-tower</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/beauport-tower"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/beauport-tower"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/projects/dubai-hills-fairways</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/dubai-hills-fairways"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/dubai-hills-fairways"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/projects/grand-bleu-tower-1</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/grand-bleu-tower-1"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/grand-bleu-tower-1"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/projects/il-primo-penthouse</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/il-primo-penthouse"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/projects/il-primo-penthouse"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/il-primo-penthouse"/>
   </url>
   <url>
     <loc>https://calibro.ae/projects</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects"/>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://calibro.ae/ar/projects"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects"/>
   </url>
   <url>
-    <loc>https://calibro.ae/products</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://calibro.ae/projects/private-office-vision-tower</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/private-office-vision-tower"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/private-office-vision-tower"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/projects/so-uptown-tower</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/so-uptown-tower"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/so-uptown-tower"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/projects/sobha-s-tower</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/sobha-s-tower"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/sobha-s-tower"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/projects/study-house</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/projects/study-house"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/projects/study-house"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/value-engineering</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/value-engineering"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/value-engineering"/>
+  </url>
+  <url>
+    <loc>https://calibro.ae/workspace</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://calibro.ae/workspace"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://calibro.ae/workspace"/>
   </url>
 </urlset>
